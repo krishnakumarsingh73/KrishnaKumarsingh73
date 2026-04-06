@@ -22,6 +22,6 @@
 ---
 
 ## 📫 Contact with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishna-kumar-singh-914531334?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/krishna_kumar_singh73?igsh=MTB3ZmJmejhla3lnZQ==)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:krishnakumarsingh7368@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/krishna-kumar-singh-914531334?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Instagram](https://img.icons8.com/color/48/instagram-new.png)](https://www.instagram.com/krishna_kumar_singh73?igsh=MTB3ZmJmejhla3lnZQ==)
+[![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:krishnakumarsingh7368@gmail.com)
